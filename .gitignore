@@ -1,0 +1,10 @@
+/node_modules
+package-lock.json
+/client/node_modules
+/config/keys_dev.js
+notes.txt
+/docs
+/logs
+.next
+.env
+rockness-next.code-workspace
